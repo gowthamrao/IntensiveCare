@@ -1,0 +1,17 @@
+category,originalId,name,path,id,classification
+Atlas,15291,Inpatient Visit,inst/sql/sql_server/Inpatient Visit.sql,1,stay
+Atlas,15292,Emergency Room,inst/sql/sql_server/Emergency Room.sql,2,stay
+Atlas,15293,Primary Diagnosis of Disorder of respiratory system,inst/sql/sql_server/Primary Diagnosis of Disorder of respiratory system.sql,3,diagnosis
+Atlas,15294,Primary Diagnosis of Disorder of cardiovascular illness,inst/sql/sql_server/Primary Diagnosis of Disorder of cardiovascular illness.sql,4,diagnosis
+Atlas,15295,Primary Diagnosis of digestive system,inst/sql/sql_server/Primary Diagnosis of digestive system.sql,5,diagnosis
+Atlas,15296,Primary Diagnosis of Disorder of nervous system,inst/sql/sql_server/Primary Diagnosis of Disorder of nervous system.sql,6,diagnosis
+Atlas,15394,Inpatient Visit or (Emergency Room and Inpatient Visit),inst/sql/sql_server/Inpatient Visit or (Emergency Room and Inpatient Visit).sql,7,stay
+Custom,10735,Intensive and sub-acute care,inst/sql/sql_server/Intensive and sub-acute care.sql,8,intensiveCare
+Custom,10736,Intensive care,inst/sql/sql_server/Intensive care.sql,9,intensiveCare
+Custom,10737,Sub-acute care,inst/sql/sql_server/Sub-acute care.sql,10,intensiveCare
+Custom,10738,Intensive Care - Surgical,inst/sql/sql_server/Intensive Care - Surgical.sql,11,intensiveCare
+Custom,10834,Intensive Care - Burn Care,inst/sql/sql_server/Intensive Care - Burn Care.sql,12,intensiveCare
+Custom,10835,Intensive Care - Trauma,inst/sql/sql_server/Intensive Care - Trauma.sql,13,intensiveCare
+Custom,10836,Intensive Care - Pediatric,inst/sql/sql_server/Intensive Care - Pediatric.sql,14,intensiveCare
+Custom,10837,Intensive Care - Psychiatric,inst/sql/sql_server/Intensive Care - Psychiatric.sql,15,intensiveCare
+Custom,10838,Intensive Care - General Classification,inst/sql/sql_server/Intensive Care - General Classification.sql,16,intensiveCare

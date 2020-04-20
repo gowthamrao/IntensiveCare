@@ -1,0 +1,32 @@
+Package: intensiveCare
+Title: intensiveCare
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gowtham",
+           family = "Rao",
+           role = c("aut", "cre"),
+           email = "gowthamrao@gmail.com")
+Description: Creates one or more intensive care cohorts, and characterizes it. V2: with prediction
+License: Apache License
+Encoding: UTF-8
+Language: en
+LazyData: true
+Imports: 
+    ggplot2,
+    magrittr,
+    scales,
+    SqlRender,
+    CohortDiagnostics,
+    DatabaseConnector,
+    DBI,
+    dplyr,
+    jsonlite,
+    officer,
+    openxlsx,
+    purrr,
+    readr,
+    RSQLite,
+    rstudioapi,
+    stringr,
+    tibble
+RoxygenNote: 7.1.0
